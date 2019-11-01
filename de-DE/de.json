@@ -342,7 +342,7 @@
     "SETUP.Title": "Einstellungen und Setup",
     "SETUP.Update": "Software aktualisieren",
     "SETUP.UpdateAll": "Alle aktualisieren",
-    "SETUP.UpdateCheck": "Aktualisierung suchen",
+    "SETUP.UpdateCheck": "Aktualisieren",
     "SETUP.UpdateCheckFor": "Nach Aktualisierung suchen",
     "SETUP.UpdateWarning": "Bitte lies die Anleitung aufmerksam, bevor du den Core Software Updater benutzt.",
     "SETUP.UpdateInstructionsP1": "Der Foundry Virtual Tabletop Self-Updater wird verwendet, um die Core Software-Version zu aktualisieren, wenn neue Release-Keys bereitgestellt werden. Dieses Tool aktualisiert automatisch deine Foundry VTT-Installation, wenn ein verfügbares Aktualisierungspaket zur Verfügung steht. Um eine Aktualisierung freizuschalten, musst du einen gültigen Test-Update Key eingeben, der während der Beta-Testphase bereitgestellt wird.",
