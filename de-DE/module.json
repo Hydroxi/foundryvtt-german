@@ -2,7 +2,7 @@
     "name": "de-DE",
     "title": "FoundryVTT - de-DE",
     "description": "Add German (GERMANY) language to FoundryVTT",
-    "version": "0.3.9.4",
+    "version": "0.3.9.5",
     "author": "Hydroxi, lutece",
     
     "scripts": [],
@@ -17,7 +17,9 @@
       }
     ],
     
-    "url": "https://github.com/Hydroxi/foundryvtt-german",
-	  "manifest": "https://raw.githubusercontent.com/Hydroxi/foundryvtt-german/master/de-DE/module.json",
-	  "download": "https://raw.githubusercontent.com/Hydroxi/foundryvtt-german/master/de-DE/de-DE.zip"
+    "url": "https://gitlab.com/Hydroxi/foundryvtt-lang-de-de",
+	  "manifest": "https://gitlab.com/Hydroxi/foundryvtt-lang-de-de/raw/master/de-DE/module.json",
+	  "download": "https://gitlab.com/Hydroxi/foundryvtt-lang-de-de/-/jobs/artifacts/master/raw/de-DE.zip?job=build"
+
+
   }
